@@ -1,1 +1,37 @@
-Read me
+Topic: Daylight Saving Time and its effects on society; Should Daylight Saving Time be made permanent? 
+
+Business Problem: Once again, the U.S. finds itself attempting to make Daylight Saving Time (DST) permanent. 
+On Tuesday, March 16th 2022 the Senate approved and passed a bill called the Sunshine Protection Act of 2021, 
+which would effectively make DST permanent across the U.S. beginning in 2023 (Hernandez, 2022). However, as the 
+debate around whether or not to pass this bill into law unfolds, many find themselves revisiting a familiar discussion 
+around the benefits of such a permanent change. While some pros for the change include a decrease on energy consumption 
+during the summer months and more hours of sunlight, others note that the cons may not be worth it, to include health problems, 
+sleep deprivation, and an increase in crime and accidents (Diamond, 2022). This leads us to the following question: What can 
+the data tell us about the effects on society surrounding the shift between daylight saving time and standard time?
+
+Datasets: I’ll be searching for datasets from various sources such as, but not limited to:
+•	Kaggle.com
+•	Data.gov 
+•	Cdan.Dot.gov
+•	Nhtsa.gov
+•	Energycommerce.house.gov
+•	Congress.gov
+
+Examples include:
+•	https://cdan.dot.gov/query
+•	https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
+•	https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/
+•	https://energycommerce.house.gov/newsroom/press-releases/ec-announces-hearing-on-daylight-saving-time
+•	https://www.c-span.org/video/?518505-1/hearing-daylight-saving-time
+•	https://www.congress.gov/bill/117th-congress/senate-bill/623/all-info
+•	https://www.livescience.com/60806-daylight-saving-time-linked-to-assault.html
+
+
+Ideally, I would like to find data sets which show me (What data science has to say about Daylight Saving Time, 2021):
+•	Crime rates
+•	Traffic Accidents and Fatalities
+•	Pedestrian Deaths
+•	Health or Medical accidents
+•	Suicides
+•	Mental Health
+I would like my datasets are at least on the week or day level basis in order for me to compare the rates of the above topics between the week leading up to DST, the week of the DST change, and the week back to standard time. Additionally, if possible, I would like to find a dataset that shows some sort of sentiment analysis perhaps through, Tweets on Twitter, surrounding happiness levels or thoughts surrounding DST.
