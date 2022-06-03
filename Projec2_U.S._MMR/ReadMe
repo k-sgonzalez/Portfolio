@@ -1,1 +1,14 @@
-ReadMe
+PROPOSAL: Maternal Mortality: How does the U.S. compare against the rest of the world?
+
+TOPIC: This project aims at examining maternal mortality rates globally and in the U.S., 
+in an attempt to determine how the U.S. stacks against the rest of the world. Other factors examined are cause of 
+maternal death, geographic region, attendance of skilled birth professional, accessibility to antenatal care.
+
+BUSINESS PROBLEM: According to an article published by the commonwealthfund.org, 
+“Most maternal deaths are preventable, but they have been increasing in the United States. 
+Other high-income countries with success in preventing maternal deaths offer potential lessons for the U.S.” (Roosa Tikkanen, 2020)
+
+DATASETS:
+	https://www.commonwealthfund.org/publications/issue-briefs/2020/nov/maternal-mortality-maternity-care-us-compared-10-countries#:~:text=Key%20Findings%3A%20The%20U.S.%20has,and%20midwives)%20relative%20to%20births.
+	https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.MNCH_MATERNAL_DEATHS+MNCH_LTR_MATERNAL_DEATH+MNCH_MMR+COD_MATERNAL_CONDITIONS+MNCH_ANC1+MNCH_ANC4+MNCH_SAB.F.&startPeriod=1970&endPeriod=2022
+	https://data.worldbank.org/indicator/SH.MMR.DTHS
