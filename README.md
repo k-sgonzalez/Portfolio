@@ -8,3 +8,6 @@ Additionally, since first beginning the program I have cycled through a few comp
 
 Although this repository contains all of the technical data and code associated with my projects to include final powerpoint presentations,
 my final portfolio and works can be found here: https://gonzalezk92.wixsite.com/portfolio
+
+*** IMPORTANT NOTE ******
+It is important to note that both this repository and the above linked portfolio are strictly for the completion of the assignment, as it is no longer this student's intention to pursue a career change to Data Science.
