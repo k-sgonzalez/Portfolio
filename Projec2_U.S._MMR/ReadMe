@@ -1,12 +1,25 @@
-PROPOSAL: Maternal Mortality: How does the U.S. compare against the rest of the world?
+Background:
+“Women in the U.S. are the most likely to die from complications related to pregnancy or childbirth.
+In 2018, there were 17 maternal deaths for every 100,000 live births in the U.S. – a ratio more than 
+double that of most other high-income countries.” - The CommonwealthFund.org
 
-TOPIC: This project aims at examining maternal mortality rates globally and in the U.S., 
+According to an article published by the commonwealthfund.org, 
+“Most maternal deaths are preventable, but they have been increasing in the United States. 
+Other high-income countries with success in preventing maternal deaths offer potential lessons for the U.S.” (Roosa Tikkanen, 2020)
+
+When we think of maternal mortality, it would be reasonable to argue that immediate thoughts flee to 
+countries such as Afghanistan where the World Health Organization (WHO) places the maternal mortality 
+ratio (MMR) at 638 deaths per 100,000 live births. But if most maternal deaths are preventable, why have 
+they been steadily increasing in the United States since 2000?
+
+The aim of this analysis is to compare maternal mortality rates in the U.S. with other countries around 
+the world along with factors such as race, attendance of skilled professional at birth and access 
+to antenatal (prenatal) care, to attempt to identify possible contributing factors to the U.S. MMR and possible areas for improvement.
+
+Methodology: This project aims at examining maternal mortality rates globally and in the U.S., 
 in an attempt to determine how the U.S. stacks against the rest of the world. Other factors examined are cause of 
 maternal death, geographic region, attendance of skilled birth professional, accessibility to antenatal care.
 
-BUSINESS PROBLEM: According to an article published by the commonwealthfund.org, 
-“Most maternal deaths are preventable, but they have been increasing in the United States. 
-Other high-income countries with success in preventing maternal deaths offer potential lessons for the U.S.” (Roosa Tikkanen, 2020)
 
 DATASETS:
 	https://www.commonwealthfund.org/publications/issue-briefs/2020/nov/maternal-mortality-maternity-care-us-compared-10-countries#:~:text=Key%20Findings%3A%20The%20U.S.%20has,and%20midwives)%20relative%20to%20births.
